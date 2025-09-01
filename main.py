@@ -124,3 +124,5 @@ logits, loss = m(xb,yb)
 
 print("logits.shape :", logits.shape)
 print("loss:", loss)
+
+# TODO : continue from here - 29:38
